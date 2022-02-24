@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some of the letters which were writ to George Fox, and others of the Quakers teachers are here presented to the rest of their fraternity ... / J.P.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54267</idno>
+            <idno type="STC">Wing P1416</idno>
+            <idno type="STC">ESTC R33367</idno>
+            <idno type="EEBO-CITATION">13282362</idno>
+            <idno type="OCLC">ocm 13282362</idno>
+            <idno type="VID">98769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54267)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some of the letters which were writ to George Fox, and others of the Quakers teachers are here presented to the rest of their fraternity ... / J.P.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 7: John Pennyman.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters">
+            <pb facs="tcp:98769:1"/>
+            <pb n="1" facs="tcp:98769:1" rendition="simple:additions"/>
+            <head>Some of the Letters which were writ to <hi>George Fox,</hi> and others of the <hi>Quakers Teachers,</hi> are here preſented to the reſt of their Fraternity, who are alſo concern'd deeply to weigh and conſider them; and if they reap any benefit thereby, let Him have the Glory, who is the Author of all Good. <g ref="char:V">Ʋ</g>nto whom be everlaſting praiſe, honour, and renown, ſaith His Servant, and your true Friend, <hi>J. P.</hi>
+            </head>
+            <head type="sub">The Letters follow according to their dates.</head>
+            <div type="letter">
+               <head>
+                  <hi>Septemb.</hi> 1. 78.</head>
+               <opener>
+                  <salute>William Gibſon,</salute>
+               </opener>
+               <p>IF it be true what <hi>Robert Weſt</hi> hath ſaid, (as true it is) <hi>viz. That it is the greateſt Blaſphemy or Forgery under Heaven, to ſay things in the Name of the Lord, or that they are moved by the Lord to ſpeak or do, and are not.</hi> Then art thou one of the greateſt Blaſphemers, and one of the ſtouteſt Inſtruments of thy Maſter that has appeared in this our Age, and for which thou muſt certainly come to Judgment. Take warning and re<g ref="char:EOLhyphen"/>pent, leſt thou finally periſh: and whether thou hear or forbear, I am clear concerning thee.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Another to the ſame Perſon,</hi> Sept. 6. 78.</head>
+               <opener>
+                  <salute>W. G.</salute>
+               </opener>
+               <p>This is only to acquaint thee, That I purpoſe to be at the Meeting at the <hi>Bull, &amp;c.</hi> this Forenoon, where if thou art, it's probable I ſhall hear ſome more of thy <hi>Billingsgate Rhetorick;</hi> for indeed thy Preachings and Diſcourſes of late, have been more fit for, and more ſuitable to the Scolds there, than to be amongſt any People profeſſing Sobriety.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Another to him, 8th (month call'd)</hi> April 79.</head>
+               <opener>
+                  <salute>W. G.</salute>
+               </opener>
+               <p>Laſt ſixth day (of the Week) I heard thee tell of <hi>Whirls, Rattles,</hi> &amp;c. as formerly I have heard thee preach of <hi>a flap with a Fox-Tail, Dog-Tail, Picture-drawers, Stage-players,</hi> and the like: Now how much thou doſt frequent the Play-houſe, I cannot tell, but certain I am, thou acteſt the part of one of the Stagers there, more than of a Meſſenger or Miniſter of Chriſt, as thou pretends thy ſelf to be.</p>
+               <p>Thus once more I have written to thee of thy ridiculous and fooliſh doings, that if poſſible thou mayeſt ſee thy own folly therein, and repent.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="2" facs="tcp:98769:2"/>
+               <head>One having heard of the ſcurillity of his Sermons, writ thus to him.</head>
+               <opener>
+                  <salute>William Gibſon,</salute>
+               </opener>
+               <p>I have heard of thy late Sermons, and do believe there's few of thoſe you call the <hi>Prieſts of the Nation,</hi> but would be aſhamed to utter forth ſuch pitiful ſtuff in their Pulpits as thou haſt done: Many have taken notice thereof; I heard one ſay, that ſaw thee-labour and ſweat ſo to bring out thy Matter, it came into his mind, thou waſt in his ſtate who had that Curſe pronounc'd againſt him, <hi>In the ſweat of thy Brows thou ſhalt eat thy Bread.</hi> I heard alſo another ſay, <hi>If that Principle they ſpeak of bring forth ſuch Fruits as theſe, How can any ſober Perſon believe in it?</hi> At which I was grieved, and ſaid, Though they all ſhould depart from it, yet muſt I take it to be my Guide for ever. Then this ſaying came into my mind, <hi>My Houſe ſhall be called the Houſe of Prayer, but you have made it a Den of Theeves;</hi> therefore ſhall your glory be turned into ſhame; the Idols you have made ſhall not deliver you. Repent, and forbear to Preach till thou haſt got dominion over thy own Spirit; but if thou ſtill goeſt on, and ſhalt dare any more to mention His Name to cover thy own wickedneſs, thou mayeſt expect ſomething will be brought to paſs whereby thou ſhalt be made more fully manifeſt to all.</p>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>A Letter to</hi> George Watts, <hi>Octob.</hi> 2. 79.</head>
+               <opener>
+                  <salute>Friend,</salute>
+               </opener>
+               <p>UPon conſideration of thy blind Zeal laſt firſt day was a Week, it came into my mind to ſend thee this Incloſed,
+<note n="*" place="margin">
+                     <hi>Collections I took out of</hi> W. Penn<hi>'s Addreſs to Proteſtants, intituled,</hi> A Seaſonable Paper, <hi>&amp;c.</hi>
+                  </note> (which ſayings, tho true, yet is diametrically oppoſite, and quite contrary to that Spirit by which thou art acted) but I deferred ſending it, till I apprehended thou mighteſt be more cool and calm in thy Spirit; which as yet is not right before the All-ſeeing Eye, whoſe ways are not as yours, neither is He confin'd to your <hi>Modes, Faſhions,</hi> and <hi>Cuſtoms,</hi> which never can make the Obſervers thereof, nor the Comers thereunto, perfect; neither do they, nor can they make you (even the ſtricteſt obſervers of them) either nigher the Kingdom of Heaven, or the Friends of God. This is Truth's Teſtimo<g ref="char:EOLhyphen"/>ny. If thou haſt an Ear to hear thou mayeſt hear; but whilſt your Eyes and Ears are abroad, you can neither hear or ſee the Leadings of the moſt High, nor the Worſhip He accepts of this day.</p>
+               <p>The Beam, the Beam is yet remaining in many of your Eyes, that take upon you to be Teachers of others; wherefore firſt let the Beam be caſt out that is in your own Eyes, before you judg, or take upon you to caſt out the Mote that may be in your Brothers: then may you witneſs Peace
+<pb n="3" facs="tcp:98769:2"/>with your Maker, and Love and Good-will to his Children, who in faith<g ref="char:EOLhyphen"/>fulneſs are given up to follow Him, through good and evil report. I intended, when I began, not to be ſo large, for I know you are full fed with words; but to the <hi>Word of Life,</hi> many of you that talk of it, are as great Strangers as thoſe that never heard of it, or ſo much as mention'd in their Aſſemblies: This perhaps you'l think is a hard ſaying, but it is true, and you muſt bear it.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>A Letter to</hi> T. G. 28th <hi>(month call'd) Jan.</hi> 79.</head>
+               <opener>
+                  <salute>Tho. Green,</salute>
+               </opener>
+               <p>MY Love hath been to thee above many of thy Brethren, becauſe thou wert not of that rigid Spirit as moſt of them were; but yet I ſaw ſomething ſtanding in thee, which was not right before the All-ſeeing Eye; which thy interruption of me this day (whilſt I was ſpeaking) was one manifeſtation thereof: for whilſt you ſit in <hi>Moſes</hi> Seat, and uſurp the Keys of the Kingdom only to your Fraternity, you ſo far limit the Holy One; and whilſt you confine Him and his Servants, within the bounds of your preſcribed Rules, Methods, and Cuſtoms, (which can never make the Comers thereto perfect) as pertaining to the Conſcience; you can never know His Leadings, whom you profeſs to ſerve, but will and muſt oppoſe his Appearance, if in the leaſt it thwart, or appear in a different manner from your preſcribed and received Traditions: Let the <hi>Jews</hi> of old be your warning! who, tho zealous for the Letters and Writ<g ref="char:EOLhyphen"/>ings of the Holy Men, yet were oppoſers of the Life and Spirit that gave them forth; becauſe the manifeſtation or appearance that was in that day, was contrary to their Traditions and Expectations: So take heed of ſet<g ref="char:EOLhyphen"/>ting up your Shadows inſtead of Subſtance, or of ſetting up your Form to oppoſe His Power, who leads into or out of ſuch things as He pleaſeth; and who aſſuredly hath, and will raiſe up faithful Witneſſes now, (as well as He did <hi>Hezekiah</hi> of old, 2 <hi>King.</hi> 8.4.) who muſt teſtify againſt all Ido<g ref="char:EOLhyphen"/>latry, (even in its moſt refined appearance) and muſt be helpful to the pul<g ref="char:EOLhyphen"/>ling down, and daſhing to pieces all Images; and tho ſome of them might be ſet up by His appointment, (as the brazen Serpent was) yet by reaſon of the Iniquity and Idolatry of the People, they muſt be trampled under foot of the Upright, and ground to Pouder, and teſtified againſt by the Righteous, whoſe Hearts and Souls will truly and greatly rejoice thereat, when the Hypocrite, the double-minded, and all that love the eſteem and praiſe of Men, will be troubled. Theſe are true Sayings, if thou haſt an Ear to hear thou mayeſt hear. I know you are full, and think you are rich; but it were better for you that you were poor, low, and hungry, then were there ſome hopes you would have an Ear to hear what
+<pb n="4" facs="tcp:98769:3"/>the Spirit ſaith; which ſaith expreſly, (in this our day) That the Chil<g ref="char:EOLhyphen"/>dren of the LORD ſhall be taught of Him, who ſhall not need yours, nor no Man's teaching, in that Worſhip which is Spiritual, and which is on<g ref="char:EOLhyphen"/>ly accepted of the Father in this Day and Hour: To which Worſhip, ma<g ref="char:EOLhyphen"/>ny of you that talk of it, are as great Strangers, and as far from the Life and Power thereof, as the very Heathen or Publicans you ſo much con<g ref="char:EOLhyphen"/>demn. Reject not this Teſtimony, for it is Truth, and muſt ſtand. Happy might it be for thee if thou couldſt receive it; however it is in love that I am made thus to write, and to ſubſcribe my ſelf, a Friend to thee, and all Men, without reſpect to Perſons, Parties, or Sects,</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>A Letter to</hi> W. L. 15th <hi>(Month called)</hi> May, 1680.</head>
+               <opener>
+                  <salute>Mr. <hi>Lollington,</hi>
+                  </salute>
+               </opener>
+               <p>SEveral of the Incloſed
+<note n="*" place="margin">
+                     <hi>A Bright ſhining Light,</hi> &amp;c.</note> being ſent me, I was willing to ſend you one of them, they treating ſomewhat of thoſe Matters mention'd in yours of the 3d Inſtant; whereby you may partly perceive the Diſpenſation of God in our Day, (of which many are ignorant) and who they are that do imbrace, and are in unity with it; and who they are that are the Re<g ref="char:EOLhyphen"/>ſiſters, Oppoſers, and Gainſayers of it; ſo that I need not ſay much more of it at preſent, but mind you of that of the Prophet, <hi>Who hath directed the Spirit of the Lord, or, being his Counſellor, hath taught Him?</hi> Which ſay<g ref="char:EOLhyphen"/>ing might ſerve as a Caution to all that in their wiſdoms would meddle with, or ſeek to comprehend the way of the Higheſt. It is not for Man to circumſcribe or limit the Holy One, but to be in continual ſubjection to his Leadings; who may lead into, or out of Geſtures, Poſtures, <hi>&amp;c.</hi> as He pleaſeth; and who may ſay unto Him, What doſt thou? So that I am not to heed any ſuch thing farther than I find and feel His Preſence with me in them, for therein alone ſtands my true peace and ſatisfaction, and not in any viſible thing whatſoever. This is Truth's Teſtimony, if you can receive it you may; but withal I may tell you, That the <hi>
+                     <g ref="char:V">Ʋ</g>nrege<g ref="char:EOLhyphen"/>nerate</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nſanctified</hi> know little of the Spirit's Guidance, notwithſtand<g ref="char:EOLhyphen"/>ing their great talk of the ſame thereof; It is only the lowly, the meek, the poor in Spirit, that are the Inheritors and Poſſeſſors of that Bleſſing, and Pearl of greateſt price; happy are they that have found, or that yet ſhall find It: Yea, it is of that price and true value, that the wiſe Merchant<g ref="char:EOLhyphen"/>man hath parted with all for its ſake, and counted nothing of this World to be compared to it, or valuable in compariſon of it. But who will, who can believe this Report? The Eye that's abroad cannot ſee it; the lofty and exalted Mind cannot receive it; the uncircumciſed in Heart and Ears can neither receive nor comprehend it; for as the Work of it is inviſible, ſo the Way of it is (this day) hid from all Fleſh.</p>
+               <p>
+                  <pb n="5" facs="tcp:98769:3"/>
+I had thoughts I might have had liberty to have anſwer'd more parti<g ref="char:EOLhyphen"/>cularly to what you have writ, but find it not ſafe to meddle much in ſuch Matters, and therefore may not, at preſent; my deſire being, that my Life, harmleſs and blameleſs Converſation, may preach and ſpeak for me, rather than my Words: for who is there (in this Age) that have not got a multi<g ref="char:EOLhyphen"/>tude of fine words, juſtifying and magnifying themſelves, and condemning all others? which often put me in mind of that ſaying of <hi>Solomon, Moſt Men will proclaim their own Glory; but a faithful Man who can find?</hi> And alſo that of Mr. <hi>Pen</hi>'s, (ſpeaking of Chriſt's telling us at the laſt Day) <hi>It ſhall not be well Talkt, or well Said, but well Done good and faithful Servant.</hi> Now, that you and I may be of that number, that can ap<g ref="char:EOLhyphen"/>prove our ſelves in the very ſecret of our hearts before the All-ſeeing Eye, is more to be deſired than all outward Fellowſhips, or any viſible Gather<g ref="char:EOLhyphen"/>ing whatſoever; for I am of his mind, that ſaid, <hi>A thouſand Reproaches I take up as a Crown on my Head, and go on in the Name of the Lord with love to Truth and Peace; and tho I am not ſo much in the obſervation of ſome out<g ref="char:EOLhyphen"/>ward Forms of Religion as formerly I have been, and as ſome apprehend it their duty to be, yet I deſire to be more in the Truth and Power of Godlineſs, and in Works of Righteouſneſs, Judgment, and Mercy among Men: And if this be Apoſtacy, (or down-right Complyance) I ſhall be content to be accounted ſo, and to be yet more vile than thus.</hi> But this Croſs is too great for the Man of Form to take up; This Path is too narrow for the Double-minded (or for thoſe that ſeek the praiſe of Men) to walk in: Yet ſome there are that have choſen it before all the Riches, Glory, and Eſteem of this World; of which number I deſire always to be found, who am your real Friend.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>A Letter to</hi> G. F. 27th <hi>(month call'd)</hi> May, 1680.</head>
+               <opener>
+                  <salute>George Fox,</salute>
+               </opener>
+               <p>I Had thought, that after the Book Intituled, <hi>The Quakers <g ref="char:V">Ʋ</g>nmaskt,</hi> &amp;c. was ſent you, thou wouldſt not dared to have appear'd as a Meſſenger or Miniſter of Chriſt, as yeſterday by thy words thou ſeemedſt to be; which tho I was not made publickly to oppoſe thee, and to diſcover thy hypocriſy, falſeneſs, and temporiſing, of which thou art deeply guilty, (as is apparent in the ſaid Book) yet thou art to know that thine Iniquity is not at all hid, nor thy Sin the leſs, nor at all cover'd from the All-ſeeing Eye; and tho thou haſt many Proſelytes, and many Hypocrites to ſupport and uphold thee, yet know, that for all this, thou muſt come to Judgment, and receive thy Reward for all thy Works of Wickedneſs, and Deeds of Darkneſs; and for thy Babyloniſh Worſhip, which thou in thine own Inventions and Imaginations haſt ſet up as the Spiritual Worſhip of the moſt High, thou muſt certainly give an account, not only for thine own Soul, but alſo for
+<pb n="6" facs="tcp:98769:4"/>the Souls of many ſimple and innocent Hearts, who have been deceived, betrayed, and beguiled by thee. This, this thou art deeply to weigh and conſider, before thou goeſt on, or proceedeſt deluding and deceiving the People with thy guilded, fine, and fraudulent words of <hi>Infallibility,</hi> and of thy own <hi>perfect State,</hi> of which thou haſt often boaſted, yet haſt been as far from the Life and Power thereof, as many whom thou haſt condmn'd for <hi>Heathens</hi> and <hi>Infidels.</hi> This is a certain and true Teſtimony, which I am made to declare to thee at this time, happy mighteſt thou be if thou couldſt receive it; but whilſt thou art ſo highly exalted in thy ſelf, thou canſt not, but with the Uncircumciſed, muſt ſtumble &amp; fall at the <hi>Way</hi> and <hi>Work</hi> of the Lord, which this day is hid from thee, and all proud Fleſh.</p>
+               <p>Call an Aſſembly of your Miniſtry together, for they are all gone out of the way that leads to Purity and Holineſs; <hi>They run when they are not ſent, and therefore profit not the People at all.</hi> But Wickedneſs, Whoredoms, Adulteries, Pride, Envy, and Covetouſneſs, Cheating and Cozening, breaks forth daily amongſt you; ſo that none turns from the evil of their ways, but are rather ſtrengthned therein by you that are their Teach<g ref="char:EOLhyphen"/>ers: For which, and other your Abominations, the Lord's Con<g ref="char:EOLhyphen"/>troverſy is both againſt Thee and Them; and muſt certainly ſo continue, till you come to Repentance, and till you ceaſe declaring in His Name in your Preachments, when as you ſpeak but the Divinations and Imagina<g ref="char:EOLhyphen"/>tions of your own deceived Hearts for his Word. Away with your pre<g ref="char:EOLhyphen"/>tended Miniſtry; away with your high Places and chiefeſt Seats in the Aſſemblies; away with your long Prayers, and long Preachings, for they are an Abomination; away with your Pride and Arrogance, in ſitting as Judges and Lords over your Brethrens Conſciences in Matters of Worſhip; away with your pretences to <hi>Infallibility, Purity,</hi> and <hi>Perfection,</hi> whilſt your Lives and Practices declare (with an open face) you are guilty of the contrary. Away with your ſet form of Words, of <hi>Thee</hi> and <hi>Thou,</hi> calling it the <hi>pure Language;</hi> away with this great Abomination. Ye blind Guides, Is any Language pure but what the Pure uſes? O ye blind and ignorant, how can you eſcape the Condemnation of the <hi>Juſt and Righteous One?</hi> who have ſet up Shadows inſtead of Subſtance, and Form inſtead of Power; who ſtrain at Gnats, &amp; ſwallow Camels; even as your Fore-Fathers did, ſo do ye. What can be ſaid or done for you, that you might be pre<g ref="char:EOLhyphen"/>ſerved from that fatal <hi>doom</hi> which is to be pronounc'd upon all the workers of Iniquity, <hi>viz, Go ye Curſed, &amp;c?</hi> For my part I have not been want<g ref="char:EOLhyphen"/>ing in declaring what the Lord required of me concerning you; and how you have ſpurn'd, ſcorn'd, flighted and abuſed me for it, you are not ig<g ref="char:EOLhyphen"/>norant: But my ſo ſpeaking being not for any ſelf or ſiniſter Ends, but in all faithfulneſs diſcharging my Conſcience towards you, and for the
+<pb n="7" facs="tcp:98769:4"/>rectifying of the Evils and Miſcarriages that were and are amongſt you, I have had my Reward, and that peace and tranquillity of Mind hath bin and yet remaineth with me, which no Man nor Men can give or take from me. Now if this be true, as moſt true it is, then what will become of Thee and thy fellow Preachers, who have ſet your ſelves in Battel, warring and fighting againſt this deſpiſed Worm? Have you not read, That <hi>the Worm</hi> Jacob <hi>muſt thraſh the Mountains?</hi> read <hi>Iſa.</hi> 41.10, 11, 12, 13, <hi>&amp;c.</hi> and as certainly as it is written, ſo as certainly ſhall it come to paſs. If thou canſt receive it, thou mayſt; however it concerns Thee, and you all to conſider, whether you are not thoſe very Men that have trampled upon <hi>this Worm;</hi> and whether you have not deſpiſed and rejected its Inſtructions? If ſo, then you are to conſider whether you are not thoſe Mountains that are to be thraſhed and levelled by It, yea or nay? And if you be thoſe Mountains, as without doubt you are, then what is writ<g ref="char:EOLhyphen"/>ten, muſt be fulfilled upon you. Wherefore hearken, <hi>ye tall Cedars, ye ſturdy Oaks, ye lofty Ones, ye proud Fleſh, ye ſelf exalted Ones, ye Daubers, ye Temporiſers, ye who ſay, but do not, you ſeeming Giants and great Goliahs;</hi> What will you do? whither will you go for help, ſeeing the Lord <hi>[even the God of Worm Jacob]</hi> is departed from you? A day of trouble, an<g ref="char:EOLhyphen"/>guiſh, and diſappointment, is come and coming upon you, which you can neither eſcape nor prevent. You muſt reap the Fruit of your own do<g ref="char:EOLhyphen"/>ings, for as you have ſowed the Wind, you muſt expect to reap the Whirlwind, wherein is nothing but Confuſion, Darkneſs, Blackneſs, and Tempeſt: And this is the Portion of all the Builders of <hi>Babel,</hi> or <hi>Babyloniſh</hi> Builders; and though you may think that you have built the higheſt, and raiſed the faireſt Structure of any, yet know, and that for a truth, that not one Stone thereof ſhall be left upon another; and all your Buildings, your Inventions, Imaginations, and Conceivings about your Forms; your proud ſelf-conceited Modes; your Impoſitions; your Preſcriptions, Laws, and comely Orders (as you in your fallen Wiſdom call them) muſt all be thrown down, laid waſte, and become as a by<g ref="char:EOLhyphen"/>word, or proverb of Reproach to the very Heathen; and not only to them, but alſo to thoſe whom ye have defam'd and ſtigmatiz'd with the blackeſt of Names; and for no other cauſe, but only for their faithfulneſs in diſcharging a good Conſcience towards their God, towards You, and towards all Men. Theſe are faithful and true Sayings, if thou canſt re<g ref="char:EOLhyphen"/>ceive them, thou mayſt; however whether Thou and You receive them or no, my Reward is with me, in that I have thus far cleared my Conſcience both concerning Thee, and you all.</p>
+               <closer>
+                  <signed>John Pennyman.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:98769:5"/>
+               <p>And tho I have not as yet printed and publiſhed the Book above<g ref="char:EOLhyphen"/>mention'd, intituled, <hi>The Quakers <g ref="char:V">Ʋ</g>nmaskt,</hi> &amp;c. (which if it were, would ſufficiently manifeſt thee and thy Miniſters to be the groſſeſt, the greateſt Hypocrites, Temporizers, and Deluders of the People that has appeared in this our Age) yet you are to know, there may come a ſeaſon when ſuch horrible deceit and hypocriſy muſt come to light, and wherein the Innocent amongſt you, may not ſuffer with you that are Guilty.</p>
+               <p>O <hi>George!</hi> conſider how treacherous thou wert in betraying thy Truſt of that rich (tho now poor) Orphan <hi>Abiah Trott,</hi> for I do aſſure thee, thy Friend <hi>Richard Cannon</hi> told me, thou wert a grand Inſtrument there<g ref="char:EOLhyphen"/>in: who to give him his due, ſaid, <hi>He would have bin hang'd at his own door, before he would have bin ſo guilty and ſo treacherous in his Truſt, as ſome of you that were intruſted had been.</hi> Yea, ſuch treachery and baſeneſs was acted amongſt you in that Affair, that the very Heathen, whom you ſo much condemn, would deteſt and abhor, as doth</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+               <postscript>
+                  <p>Theſe words are transferred from a Book lately printed, intitu<g ref="char:EOLhyphen"/>led, <hi>A Bright ſhining Light.</hi>
+                  </p>
+                  <lg>
+                     <l>The Mountain-Stone hath broke Thy Toes,</l>
+                     <l>Thy Vitals now muſt feel its Blows.</l>
+                     <l>May skilful Archers every Hour</l>
+                     <l>Shoot Truth's Arrows from their Tower,</l>
+                     <l>Againſt thy perſecuting Power.</l>
+                  </lg>
+               </postscript>
+            </div>
+            <div type="to_the_reader">
+               <p>They that read this Paper without a weighty Mind, or in prejudice, may judg the Author guilty of Envy and Enmity; but he that knows what it is to deny himſelf, to take up the Croſs to his own Will, and to be ſub<g ref="char:EOLhyphen"/>jected (as <hi>Peter</hi> once was, <hi>John</hi> 21.18.) to the leading and guidance of another, will not ſo judg; however, touching mine own Innocency and Integrity therein, I ſhall only add theſe words, (formerly written, <hi>Joſ.</hi> 22.22.) viz. <hi>The LORD GOD of Gods, the LORD GOD of Gods, He know<g ref="char:EOLhyphen"/>eth, and Iſrael he ſhall know, if it be in rebellion or in tranſgreſſion againſt the LORD,</hi> then <hi>let me not be ſaved this day.</hi> Nay, if the publiſhing thereof be not according to His Will, (who rewards every one according to their Works) then let not my gray Hairs go down to the Grave in Peace.</p>
+               <closer>
+                  <signed>J. P.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>What you hear in the Ear, that preach ye on the Houſe tops; and fear not them which kill the Body but are not able to kill the Soul; but rather fear Him which is able to deſtroy both Soul and Body,</hi> Mar. 10.27, 28.</p>
+               </postscript>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1680.</p>
+            <pb facs="tcp:98769:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
